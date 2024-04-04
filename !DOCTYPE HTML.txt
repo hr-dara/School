@@ -1,0 +1,8 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+      <title>KCAU SIMPLE WEBSITE</title>
+</head>
+<body>       
+      <h1>HOME</h1>
+      <p1>

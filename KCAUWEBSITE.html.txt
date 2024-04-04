@@ -1,0 +1,8 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+      <title>KCAU SIMPLE WEBSITE</title>
+</head>
+<body>       
+      <h1>HOME</h1>
+      <p1>Welcome to the country's leading university where great minds are equipped with knowledge that will help them in their chosen careers.</p1>
